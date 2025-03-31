@@ -17,12 +17,11 @@
 
 
 #### About Me
-Here are some basic things to know about ALIPHATIC; 👽
+Here are some basic things to know about Biokes; 👽
 
 - 🔭 I’m currently exploring the Space Tech Ecosystem, 
-- 🌱 I’m a Systems Engineering Major,
+- 🌱 I’m a Software Engineer,
 - 👯 I’m looking for people to join the communities I'm building.
-- 🤔 I can help you with getting into open-source,
 - 💬 Ask me about anything, 🌚
 - 📫 How to reach me; Email: officialbiokesayo@gmail.com, Phone: +2348112164332,
 - 😄 Pronouns: He/Him/His,
