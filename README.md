@@ -1,12 +1,7 @@
-<h1>Hello World 👋🏾</h1>
-
-
 <h1>Welcome To Biokes Profile👽</h1>
 
 ###   **My current role in tech...** </h2>
-       { Software Engineer } 
-
-
+       Software Engineer 
 
 
 #### Connect with me 
