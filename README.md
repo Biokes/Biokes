@@ -5,9 +5,9 @@
 
 
 #### Connect with me 
-<a href="https://www.linkedin.com/in/babalola-abiodun-ayomide-5a231431a/"> <img src="images/linkedin.png" width="60" /> </a>
-<a href="https://twitter.com/biokes_art"> <img src="images/twitter.png" width="60" /> </a>
-<a href="https://www.instagram.com/biokes"> <img src="images/ig.png" width="70" /> </a>
+<a href="https://www.linkedin.com/in/babalola-abiodun-ayomide/"> <img src="images/linkedin.png" width="60" /> </a>
+<a href="https://twitter.com/blockchainrafik"> <img src="images/twitter.png" width="60" /> </a>
+<a href="https://www.instagram.com/officialbiokes"> <img src="images/ig.png" width="70" /> </a>
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 
