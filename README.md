@@ -22,7 +22,7 @@ Here are some basic things to know about Biokes; 👽
 - 😄 Pronouns: He/Him/His,
 - ⚡ Fun fact: I love Gaming & Art.
   
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biokes&show_icons=true&theme=nightowl&cache_bust=${new Date().getTime()})
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biokes&show_icons=true&theme=nightowl)
 
 #### My Core Languages
 
