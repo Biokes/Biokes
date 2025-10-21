@@ -27,3 +27,23 @@ Here are some basic things to know about Biokes; 👽
 #### My Core Languages
 
 <a href="https://github.com/Biokes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biokes&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%3%Languages" alt="Top Languages" /></a>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biokes&theme=dark" alt="GitHub Streak" />
+</p>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biokes&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
