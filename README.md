@@ -18,7 +18,7 @@ Here are some basic things to know about Biokes; 👽
 - 🌱 I’m a Software Engineer,
 - 👯 I’m looking for people to join the communities I'm building.
 - 💬 Ask me about anything, 🌚
-- 📫 How to reach me; Email: officialbiokesayo@gmail.com, Phone: +2348112164332,
+- 📫 How to reach me; [Email:](officialbiokesayo@gmail.com),
 - 😄 Pronouns: He/Him/His,
 - ⚡ Fun fact: I love Gaming & Art.
   
