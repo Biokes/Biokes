@@ -29,7 +29,7 @@ Here are some quick facts:
 - 🔭 Currently exploring and building in the **developer tooling** and **platform engineering** space  
 - 🌱 Strong background in designing **event‑driven** and **service‑oriented** architectures  
 - 💬 Happy to talk about **tooling**, **system design**, and **engineering practices**  
-- 📫 Reach me at: [officialbiokesayo@gmail.com](mailto:officialbiokesayo@gmail.com)  
+- 📫 Reach me at: [Email](mailto:officialbiokesayo@gmail.com)  
 - 😄 Pronouns: **He/Him/His**
 
 ---
@@ -56,22 +56,14 @@ Here are some quick facts:
 ### GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-b9u5ks2lq-biokes-projects.vercel.app/api?username=Biokes&show_icons=true&theme=onedark"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats-b9u5ks2lq-biokes-projects.vercel.app/api?username=Biokes&show_icons=true&theme=onedark&cache_seconds=1800&v=1" alt="GitHub Stats"/>
 </p>
 
+
 <p align="center">
-  <img
-    src="https://github-readme-stats-b9u5ks2lq-biokes-projects.vercel.app/api/top-langs/?username=Biokes&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats-b9u5ks2lq-biokes-projects.vercel.app/api/top-langs/?username=Biokes&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=1800&v=1" alt="Top Languages" />
   &nbsp;&nbsp;
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=biokes&theme=dark"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biokes&theme=dark" alt="GitHub Streak"/>
 </p>
 
 <div align="center">
