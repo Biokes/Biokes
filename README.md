@@ -59,13 +59,6 @@ Here are some quick facts:
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-b9u5ks2lq-biokes-projects.vercel.app/api?username=Biokes&show_icons=true&theme=onedark&cache_seconds=1800&v=1" alt="GitHub Stats"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats-b9u5ks2lq-biokes-projects.vercel.app/api/top-langs/?username=Biokes&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=1800&v=1" alt="Top Languages" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=biokes&theme=dark" alt="GitHub Streak"/>
 </p>
 
