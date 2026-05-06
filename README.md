@@ -1,6 +1,8 @@
 # Welcome to Biokes' Profile
 
-I build reliable, well-structured systems—from event-driven architectures to full‑stack applications. I’m currently working as a Software Engineer with a strong focus on developer tooling and software infrastructure. I enjoy designing, building, and maintaining tools that make other engineers more productive and confident in their workflows.
+I build reliable, well-structured system, from event-driven architectures to full‑stack applications. 
+I’m currently working as a Software Engineer with a strong focus on developer tooling and software infrastructure. 
+I enjoy designing, building, and maintaining tools that make other engineers more productive and confident in their workflows.
 
 ---
 
@@ -22,7 +24,8 @@ I build reliable, well-structured systems—from event-driven architectures to f
 
 ### About Me
 
-I’m a software engineer interested in the intersection of developer experience, tooling, and reliable systems. My work usually sits between infrastructure and product engineering: building tools, automation, and abstractions that help teams ship high‑quality software faster and with fewer mistakes.
+I’m a software engineer interested in the intersection of developer experience, tooling, and reliable systems.
+My work usually sits between infrastructure and product engineering: building tools, automation, and abstractions that help teams ship high‑quality software faster and with fewer mistakes.
 
 Here are some quick facts:
 
