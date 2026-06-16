@@ -67,5 +67,23 @@ Here are some quick facts:
   />
 </div>
 
-
------
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Biokes&show_icons=true&theme=nightowl"
+          alt="GitHub Stats"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Biokes">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biokes&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages"
+          alt="Top Languages"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
